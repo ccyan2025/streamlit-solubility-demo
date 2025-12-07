@@ -1,4 +1,10 @@
-# 列出所有依赖库，一行一个，版本号可选（推荐添加）
-streamlit>=1.28.0  # Streamlit 核心库
-pandas>=1.5.0      # 数据处理
-plotly>=5.17.0     # 可视化库（解决报错的关键）
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+joblib>=1.3.0
+rdkit>=2022.9.5
+matplotlib>=3.7.0
+seaborn>=0.12.0
+lightgbm>=4.0.0
+scikit-learn>=1.3.0
+hyperopt>=0.2.7
